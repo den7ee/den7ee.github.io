@@ -11,7 +11,7 @@ body {
   margin-top: 40px;
 }
 
-#title, .subtitle, .post_title {
+#title, .subtitle, .post_title .contato{
   color: #505050;
 }
 
@@ -26,6 +26,13 @@ body {
   font-style: italic;
 }
 
-p{
-  margin-top: 30px;
+.contato{
+  margin-top: 50px;
+  font-size: 16px;
+  font-style: italic;
+  margin-bottom: -25px;
+}
+
+a{
+  padding: 10px;
 }
